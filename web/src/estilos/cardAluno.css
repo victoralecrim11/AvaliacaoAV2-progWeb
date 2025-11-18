@@ -1,0 +1,16 @@
+.card-aluno {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 15px;
+  background-color: white;
+}
+
+.card-aluno h4 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.card-aluno p {
+  margin: 0;
+  color: #666;
+}

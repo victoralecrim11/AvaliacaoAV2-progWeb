@@ -1,0 +1,87 @@
+body {
+  background-color: #f8f9fa;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+  margin-top: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.card:hover {
+  transform: scale(1.02);
+  transition: 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+/* Título da página de Detalhes Alunos */
+.titulo-pagina {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+/* Tabela estilo igual ao exemplo */
+.tabela-detalhes {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  background-color: #ffffff;
+}
+
+.tabela-detalhes th {
+  background-color: #212529;
+  color: white;
+  padding: 12px;
+  text-align: left;
+  font-weight: bold;
+}
+
+.tabela-detalhes td {
+  padding: 12px;
+  border: 1px solid #dee2e6;
+  background-color: #f8f9fa;
+}
+
+/* Botão Editar */
+.btn-editar {
+  background-color: #ffc107;
+  border: none;
+  padding: 6px 12px;
+  font-size: 14px;
+  margin-right: 8px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.btn-editar:hover {
+  background-color: #e0a800;
+}
+
+/* Botão Excluir */
+.btn-excluir {
+  background-color: #dc3545;
+  border: none;
+  padding: 6px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: bold;
+  color: white;
+}
+
+.btn-excluir:hover {
+  background-color: #bb2d3b;
+}
+
