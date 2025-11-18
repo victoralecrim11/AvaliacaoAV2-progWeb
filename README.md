@@ -6,6 +6,15 @@
 ![Linguagem](https://img.shields.io/badge/linguagem-JavaScript-yellow.svg)
 ![Licença](https://img.shields.io/badge/licença-MIT-blue.svg)
 
+
+## 🌐 Demo Online
+
+**Aplicação Web em Produção:**  
+🔗 **[[https://av2-web-leoproti.vercel.app](https://avaliacao-av-2-prog-web-1dvp-c4bugjpd1.vercel.app/)]**
+
+ Acesse a aplicação web rodando em produção no Vercel. Totalmente funcional e pronta para uso!
+
+
 ---
 
 ## 📑 Índice
