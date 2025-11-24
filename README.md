@@ -14,7 +14,12 @@
 
  Acesse a aplicação web rodando em produção no Vercel. Totalmente funcional e pronta para uso!
 
+## Demo Mobile
+***Aplicação mobile em produção:***
 
+#### 🔗 ***[https://expo.dev/accounts/victoralecrim/projects/mobile-provaav2/builds/7b962ee4-257c-4f3c-ac00-663ca02602c6]***
+
+Acesse a aplicação mobile através do link acima, ao ser direcionado só clicar em dowload para baixar e visualizar a aplicação funcional e pronta 
 ---
 
 ## 📑 Índice
